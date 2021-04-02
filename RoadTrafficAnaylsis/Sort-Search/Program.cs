@@ -20,6 +20,14 @@ namespace Sort_Search
                 Console.WriteLine($"|1:{Road_1_256[i]} |2:{Road_2_256[i]} |3:{Road_3_256[i]}");
             }
 
+            Sort.Insertion(Road_1_256);
+            Sort.Insertion(Road_2_256);
+            Sort.Insertion(Road_3_256);
+
+            for (int i = 0; i < 256; i++)
+            {
+                Console.WriteLine($"|1:{Road_1_256[i]} |2:{Road_2_256[i]} |3:{Road_3_256[i]}");
+            }
 
         }
 
