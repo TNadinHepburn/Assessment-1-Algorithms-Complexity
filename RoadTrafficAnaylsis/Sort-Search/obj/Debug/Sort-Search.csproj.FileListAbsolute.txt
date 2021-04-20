@@ -1,7 +1,0 @@
-E:\_Programming\University\algorithms and complexity\Assessment1\RoadTrafficAnaylsis\Sort-Search\bin\Debug\Sort-Search.exe.config
-E:\_Programming\University\algorithms and complexity\Assessment1\RoadTrafficAnaylsis\Sort-Search\bin\Debug\Sort-Search.exe
-E:\_Programming\University\algorithms and complexity\Assessment1\RoadTrafficAnaylsis\Sort-Search\bin\Debug\Sort-Search.pdb
-E:\_Programming\University\algorithms and complexity\Assessment1\RoadTrafficAnaylsis\Sort-Search\obj\Debug\Sort-Search.csprojAssemblyReference.cache
-E:\_Programming\University\algorithms and complexity\Assessment1\RoadTrafficAnaylsis\Sort-Search\obj\Debug\Sort-Search.csproj.CoreCompileInputs.cache
-E:\_Programming\University\algorithms and complexity\Assessment1\RoadTrafficAnaylsis\Sort-Search\obj\Debug\Sort-Search.exe
-E:\_Programming\University\algorithms and complexity\Assessment1\RoadTrafficAnaylsis\Sort-Search\obj\Debug\Sort-Search.pdb
